@@ -1,0 +1,25 @@
+{
+  "request_id": "eval-2026-03-24-001",
+  "inflow": {
+    "type": "LODR",
+    "source_name": "NSE LODR",
+    "metadata": {
+      "company": "Example Industries Ltd",
+      "filing_id": "lodr-112233"
+    }
+  },
+  "publication_type": "FIRST_PUBLISH",
+  "source_content": "Example Industries reported consolidated revenue of INR 1,200 crore for FY26, up 12% year-on-year. EBITDA margin improved to 18.4%. The board approved capex of INR 450 crore over two years for expansion in Gujarat.",
+  "articles": {
+    "claude": "Example Industries posted FY26 revenue of Rs 1,200 crore, a 12% YoY rise. EBITDA margin reached 18.4%, and the board cleared Rs 450 crore in two-year capex for Gujarat expansion.",
+    "artham": "Example Industries said revenue hit 1.2 billion with 12% growth. EBITDA improved, and expansion spending was approved for Gujarat."
+  },
+  "weights": {
+    "information_retention": 60,
+    "readability": 40
+  },
+  "additional_context": {
+    "market": "India",
+    "language": "en"
+  }
+}
